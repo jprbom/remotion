@@ -44,7 +44,7 @@
     "react-dom": "19.2.3",
     "tailwind-merge": "1.14.0",
     "tailwindcss-animate": "1.0.7",
-    "zod": "4.3.6"
+    "zod": "4.6.6"
   },
   "devDependencies": {
     "@remotion/eslint-config-flat": "workspace:*",
@@ -52,10 +52,10 @@
     "@types/react-dom": "19.2.3",
     "@vitejs/plugin-react-swc": "3.11.0",
     "autoprefixer": "10.4.16",
-    "postcss": "8.4.31",
+    "postcss": "8.5.23",
     "tailwindcss": "3.3.5",
     "typescript": "5.9.3",
-    "vite": "5.4.21",
+    "vite": "6.4.5",
     "@types/bun": "1.3.3",
     "@types/dom-mediacapture-record": "1.0.21",
     "@types/connect": "3.4.38",
